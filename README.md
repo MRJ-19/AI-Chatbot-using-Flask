@@ -1,4 +1,4 @@
-# Min Project_AIBasedChatBot To answer FAQs
+# AI BasedChatBot To answer FAQs
 1st step is to  set up Env:
 
 pip install tensorflow \
